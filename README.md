@@ -13,10 +13,10 @@ pip install -r tests/requirements.txt
 ``
 ## Unit
 ``
-pytest
-``
-## Integration
-``
 pytest  --ignore=tests_integration
+``
+## All
+``
+pytest
 ``
 
